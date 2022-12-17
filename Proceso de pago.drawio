@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T21:33:44.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BWt0Im-HMCv5sDLo52uu" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-17T21:38:26.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iJ0LmmtH4B4bvSYfxp-k" version="20.7.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -610,17 +610,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W3z2_ymzlTUCHyIqiiEm-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="W3z2_ymzlTUCHyIqiiEm-23" target="W3z2_ymzlTUCHyIqiiEm-48">
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="W3z2_ymzlTUCHyIqiiEm-23" target="W3z2_ymzlTUCHyIqiiEm-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="3240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="578" y="3240" />
+              <mxPoint x="583" y="3240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W3z2_ymzlTUCHyIqiiEm-58" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W3z2_ymzlTUCHyIqiiEm-47">
-          <mxGeometry x="0.5874" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-63" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W3z2_ymzlTUCHyIqiiEm-62">
+          <mxGeometry x="0.0855" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W3z2_ymzlTUCHyIqiiEm-23" value="FACCOM ESTA VACIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
@@ -688,16 +687,34 @@
         <mxCell id="W3z2_ymzlTUCHyIqiiEm-39" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Retorna  error 18 (Pago no procesado debido a un error en el servicio)&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:19},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#000000ff&amp;quot;,&amp;quot;e&amp;quot;:70},{&amp;quot;s&amp;quot;:69,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:70},{&amp;quot;s&amp;quot;:19,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:18.666666666666668,&amp;quot;e&amp;quot;:69}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;font-size: 16.6667px;&quot;&gt;Retorna  error 18 (&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Pago no procesado debido a un error en el servicio&lt;/span&gt;&lt;span style=&quot;font-size: 16.6667px;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFF99;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="-90" y="3960" width="220" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="W3z2_ymzlTUCHyIqiiEm-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="W3z2_ymzlTUCHyIqiiEm-48">
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="W3z2_ymzlTUCHyIqiiEm-48" target="W3z2_ymzlTUCHyIqiiEm-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="577.5" y="3460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="3615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-72" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W3z2_ymzlTUCHyIqiiEm-71">
+          <mxGeometry x="-0.1601" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W3z2_ymzlTUCHyIqiiEm-48" value="SI FACSERV ES IGUAL A FACCOM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;direction=south;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="468.75" y="3300" width="217.5" height="110" as="geometry" />
+          <mxGeometry x="474.5" y="3560" width="217.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="W3z2_ymzlTUCHyIqiiEm-57" target="W3z2_ymzlTUCHyIqiiEm-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-67" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W3z2_ymzlTUCHyIqiiEm-65">
+          <mxGeometry x="-0.2539" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="W3z2_ymzlTUCHyIqiiEm-57" value="SE FACTURA EL SERVIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="496.25" y="3460" width="162.5" height="160" as="geometry" />
+          <mxGeometry x="502" y="3280" width="162.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-70" value="ANULAR TODAS LAS FACTURAS DE&amp;nbsp; FACSER Y FACCOM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+          <mxGeometry x="330" y="3670" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
