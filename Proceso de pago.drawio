@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T18:59:39.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VScRTTgzOo_U16kM0P3W" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T19:02:48.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4aEwKpgK4kS8AoHtRKtG" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -333,8 +333,8 @@
         <mxCell id="MG3YhlP0bR8ULW_-c63s-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MG3YhlP0bR8ULW_-c63s-100" target="MG3YhlP0bR8ULW_-c63s-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="4440" />
-              <mxPoint x="380" y="4440" />
+              <mxPoint x="380" y="4540" />
+              <mxPoint x="380" y="4540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -342,7 +342,7 @@
           <mxGeometry x="235" y="4400" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MG3YhlP0bR8ULW_-c63s-101" value="FIN PAGO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="4570" width="100" height="60" as="geometry" />
+          <mxGeometry x="330" y="4580" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
