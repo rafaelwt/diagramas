@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T22:28:09.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="avvpMlmft6EBdE_9zQUP" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-17T22:33:57.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jMm4Gc7fPR81kxQBi-2G" version="20.7.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -775,7 +775,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2WSvkvc83XzfHbCqM0aZ-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="I-G2Ab86Xr6eMYeYfKwW-0" target="jbHCsfhR7cic08_ist5X-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="632" y="4560" />
+              <mxPoint x="632" y="4590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="I-G2Ab86Xr6eMYeYfKwW-0" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Recorrer Array de Pagos exitosos ($resultsServicio&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:35},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:35},{&amp;quot;s&amp;quot;:35,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#000000ff&amp;quot;,&amp;quot;e&amp;quot;:50},{&amp;quot;s&amp;quot;:35,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:20.88888888888889,&amp;quot;e&amp;quot;:50}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Recorrer Array de Pagos exitosos ($&lt;/span&gt;&lt;span style=&quot;font-size: 15.6667px;&quot;&gt;resultsServicio&lt;/span&gt;&lt;/span&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="509.5" y="3980" width="245" height="80" as="geometry" />
