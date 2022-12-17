@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T22:25:19.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zTWfpM0My3d9pDmpDh1y" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-17T22:27:31.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aqhTSwqway1VeZT-z5Cy" version="20.7.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -894,11 +894,11 @@
         <mxCell id="wX70qPgrCGhGM-6ZYOF--3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="wX70qPgrCGhGM-6ZYOF--0" target="2WSvkvc83XzfHbCqM0aZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uShTrCzDafFroepxo1LG-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="wX70qPgrCGhGM-6ZYOF--0" target="uShTrCzDafFroepxo1LG-0">
+        <mxCell id="uShTrCzDafFroepxo1LG-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="wX70qPgrCGhGM-6ZYOF--0" target="gX0L8V9AFeQGMZ1OvdRx-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1070" y="5320" />
-              <mxPoint x="1080" y="6830" />
+              <mxPoint x="1070" y="6680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -945,6 +945,30 @@
         </mxCell>
         <mxCell id="gX0L8V9AFeQGMZ1OvdRx-0" value="FIN PAGO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="650" y="6930" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0L8V9AFeQGMZ1OvdRx-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="gX0L8V9AFeQGMZ1OvdRx-2" target="gX0L8V9AFeQGMZ1OvdRx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0L8V9AFeQGMZ1OvdRx-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.014;exitY=0.854;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="gX0L8V9AFeQGMZ1OvdRx-2" target="uShTrCzDafFroepxo1LG-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="6710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gX0L8V9AFeQGMZ1OvdRx-2" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(58, 65, 74); font-size: 16.6667px;&quot;&gt;Recorrer Array de Pagos FALLIDOS($&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;resultsServicioError&lt;/span&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+          <mxGeometry x="-60" y="6640" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0L8V9AFeQGMZ1OvdRx-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="gX0L8V9AFeQGMZ1OvdRx-3" target="gX0L8V9AFeQGMZ1OvdRx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="6860" />
+              <mxPoint x="-110" y="6690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gX0L8V9AFeQGMZ1OvdRx-3" value="&lt;br&gt;ANULAR TODAS LAS FACTURAS DE&amp;nbsp; FACSER Y FACCOM&amp;nbsp; CON BUCLE Y NOTIFICAR AL BOT&lt;br&gt;(SI FACTURA EL SERVICIO O COIMSION)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+          <mxGeometry x="80" y="6790" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
