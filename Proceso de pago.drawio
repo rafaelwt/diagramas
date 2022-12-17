@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T21:20:24.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FgYk23HSnrNl36IfF5Nf" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-17T21:33:44.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BWt0Im-HMCv5sDLo52uu" version="20.7.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -426,7 +426,7 @@
         <mxCell id="5FqrmyHCJYT3-G1x6QLs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="oFvX4DduprYVjNPFV2Yf-21" target="oFvX4DduprYVjNPFV2Yf-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W3z2_ymzlTUCHyIqiiEm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="oFvX4DduprYVjNPFV2Yf-21" target="W3z2_ymzlTUCHyIqiiEm-2">
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-1" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="oFvX4DduprYVjNPFV2Yf-21" target="W3z2_ymzlTUCHyIqiiEm-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-170" y="2190" as="targetPoint" />
             <Array as="points">
@@ -618,6 +618,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-58" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W3z2_ymzlTUCHyIqiiEm-47">
+          <mxGeometry x="0.5874" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="W3z2_ymzlTUCHyIqiiEm-23" value="FACCOM ESTA VACIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="265" y="3170" width="151" height="140" as="geometry" />
         </mxCell>
@@ -683,8 +688,16 @@
         <mxCell id="W3z2_ymzlTUCHyIqiiEm-39" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Retorna  error 18 (Pago no procesado debido a un error en el servicio)&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:19},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#000000ff&amp;quot;,&amp;quot;e&amp;quot;:70},{&amp;quot;s&amp;quot;:69,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:70},{&amp;quot;s&amp;quot;:19,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:18.666666666666668,&amp;quot;e&amp;quot;:69}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;font-size: 16.6667px;&quot;&gt;Retorna  error 18 (&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Pago no procesado debido a un error en el servicio&lt;/span&gt;&lt;span style=&quot;font-size: 16.6667px;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFF99;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="-90" y="3960" width="220" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="W3z2_ymzlTUCHyIqiiEm-48" value="SE FACTURA EL SERVIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;direction=south;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="502.5" y="3300" width="150" height="100" as="geometry" />
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="W3z2_ymzlTUCHyIqiiEm-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577.5" y="3460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-48" value="SI FACSERV ES IGUAL A FACCOM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;direction=south;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+          <mxGeometry x="468.75" y="3300" width="217.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="W3z2_ymzlTUCHyIqiiEm-57" value="SE FACTURA EL SERVIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+          <mxGeometry x="496.25" y="3460" width="162.5" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
