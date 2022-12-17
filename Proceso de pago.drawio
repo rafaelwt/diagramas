@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T18:52:18.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YKV4KsBFVqDQX_tXdwCv" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-17T18:52:56.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jioWMIIlwjys-Qe_JKUq" version="20.7.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,20 @@
         <mxCell id="MG3YhlP0bR8ULW_-c63s-24" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MG3YhlP0bR8ULW_-c63s-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bGKqkmwRGURGZmmwafI3-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MG3YhlP0bR8ULW_-c63s-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="760" />
+              <mxPoint x="70" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bGKqkmwRGURGZmmwafI3-1" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGKqkmwRGURGZmmwafI3-0">
+          <mxGeometry x="-0.7699" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MG3YhlP0bR8ULW_-c63s-23" value="Se Factura el Servicio&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
