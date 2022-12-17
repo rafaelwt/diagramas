@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T22:15:37.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KDNUgn_kqx6P3C9Z18E4" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-17T22:23:54.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="P7eq93obSzB_1QifUV74" version="20.7.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,9 +474,6 @@
         <mxCell id="oFvX4DduprYVjNPFV2Yf-32" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Cambiar estado a procesada (tbl_facturasSFEl eEstado_fl = V) &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:28},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:28},{&amp;quot;s&amp;quot;:28,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#ce9178ff&amp;quot;,&amp;quot;e&amp;quot;:59},{&amp;quot;s&amp;quot;:28,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:18.666666666666668,&amp;quot;e&amp;quot;:59},{&amp;quot;s&amp;quot;:59,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:61},{&amp;quot;s&amp;quot;:59,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:61}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Cambiar estado a procesada (&lt;/span&gt;&lt;span style=&quot;color:#ce9178;font-size:14px;&quot;&gt;tbl_facturasSFEl eEstado_fl = V&lt;/span&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="289.5" y="1470" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oFvX4DduprYVjNPFV2Yf-92" value="FIN PAGO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="-10" y="5261" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="5FqrmyHCJYT3-G1x6QLs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="INcLnHJ0msS-N71J_naL-11" target="oFvX4DduprYVjNPFV2Yf-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -840,14 +837,8 @@
         <mxCell id="VFvyD6uHLwtJWiL7curB-0" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Insertar en Array de Pagos complatado ($resultsServicio) &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:40},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:40},{&amp;quot;s&amp;quot;:40,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#000000ff&amp;quot;,&amp;quot;e&amp;quot;:55},{&amp;quot;s&amp;quot;:55,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:57},{&amp;quot;s&amp;quot;:55,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:57},{&amp;quot;s&amp;quot;:40,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:20.88888888888889,&amp;quot;e&amp;quot;:55}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Insertar en Array de Pagos complatado ($&lt;/span&gt;&lt;span style=&quot;font-size: 15.6667px;&quot;&gt;resultsServicio&lt;/span&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="24" y="5040" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cqWNbpvFoyXWGxMFhhMI-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="N-eBfrn0rYibMgmJTe2L-0" target="oFvX4DduprYVjNPFV2Yf-92">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="N-eBfrn0rYibMgmJTe2L-0" value="PREPARAR DOCUMENTOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="-130" y="5430" width="340" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7_usgetijxhHOtDykqeQ-0" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Insertar en array de pago con errores resultsServicioError&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:38},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:38},{&amp;quot;s&amp;quot;:38,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:18.666666666666668,&amp;quot;e&amp;quot;:58},{&amp;quot;s&amp;quot;:38,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#000000ff&amp;quot;,&amp;quot;e&amp;quot;:58}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Insertar en array de pago con errores &lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;resultsServicioError&lt;br&gt;Y DETENER EL BUCLE&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="-248" y="5050" width="160" height="100" as="geometry" />
+        <mxCell id="7_usgetijxhHOtDykqeQ-0" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Insertar en array de pago con errores resultsServicioError&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:38},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:38},{&amp;quot;s&amp;quot;:38,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:18.666666666666668,&amp;quot;e&amp;quot;:58},{&amp;quot;s&amp;quot;:38,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#000000ff&amp;quot;,&amp;quot;e&amp;quot;:58}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Insertar en array de pago con errores &lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;resultsServicioError&lt;br&gt;Y DETENER EL BUCLE&lt;br&gt;YA ADICIONAR LAS RESTANTES&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+          <mxGeometry x="-248" y="5050" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AZUX35vnyd3ft6P0LVUy-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="AZUX35vnyd3ft6P0LVUy-0" target="YG0iq57LrNgVD3WvaJT_-2">
           <mxGeometry relative="1" as="geometry">
@@ -903,6 +894,14 @@
         <mxCell id="wX70qPgrCGhGM-6ZYOF--3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="wX70qPgrCGhGM-6ZYOF--0" target="2WSvkvc83XzfHbCqM0aZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uShTrCzDafFroepxo1LG-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="wX70qPgrCGhGM-6ZYOF--0" target="uShTrCzDafFroepxo1LG-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="5320" />
+              <mxPoint x="1080" y="6830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wX70qPgrCGhGM-6ZYOF--0" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Recorrer Array de Pagos exitosos ($resultsServicio&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:35},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:35},{&amp;quot;s&amp;quot;:35,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#000000ff&amp;quot;,&amp;quot;e&amp;quot;:50},{&amp;quot;s&amp;quot;:35,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:20.88888888888889,&amp;quot;e&amp;quot;:50}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Recorrer Array de Pagos exitosos ($&lt;/span&gt;&lt;span style=&quot;font-size: 15.6667px;&quot;&gt;resultsServicio&lt;/span&gt;&lt;/span&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="600" y="5280" width="245" height="80" as="geometry" />
         </mxCell>
@@ -914,7 +913,7 @@
         <mxCell id="64dQTfMZ_o9KjmLlhGbU-0" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;procesarTransaccion&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;p&amp;quot;,&amp;quot;v&amp;quot;:1.1309523809523812},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#000000ff&amp;quot;,&amp;quot;e&amp;quot;:19},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:18.666666666666668,&amp;quot;e&amp;quot;:19}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;procesarTransaccion&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="605" y="6030" width="235" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tcbSD007YLptXOcD_08I-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="OcNu6pIdeqAvDnU0gm56-0" target="tcbSD007YLptXOcD_08I-0">
+        <mxCell id="tcbSD007YLptXOcD_08I-3" value="SI" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="OcNu6pIdeqAvDnU0gm56-0" target="tcbSD007YLptXOcD_08I-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OcNu6pIdeqAvDnU0gm56-0" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Pago Procesado en Pap&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:21},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:21}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Pago Procesado en Pap&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
@@ -924,7 +923,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tcbSD007YLptXOcD_08I-0" value="ENVIAR LOG DE PAGO PROCESADO , ACTULIZAR LOG TRANS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="502" y="6260" width="430" height="50" as="geometry" />
+          <mxGeometry x="502.5" y="6290" width="430" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tcbSD007YLptXOcD_08I-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="tcbSD007YLptXOcD_08I-1" target="tcbSD007YLptXOcD_08I-2">
           <mxGeometry relative="1" as="geometry" />
@@ -932,8 +931,20 @@
         <mxCell id="tcbSD007YLptXOcD_08I-1" value="SE FACTURA EL SERVCIO Y./O COMISION" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="667" y="6380" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tcbSD007YLptXOcD_08I-2" value="ACTUALIZAR EL&amp;nbsp; EL CUF Y EL NUTRAN EN LA FACTURA GENERADA&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+        <mxCell id="uShTrCzDafFroepxo1LG-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="tcbSD007YLptXOcD_08I-2" target="wX70qPgrCGhGM-6ZYOF--0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="6580" />
+              <mxPoint x="470" y="5950" />
+              <mxPoint x="460" y="5390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcbSD007YLptXOcD_08I-2" value="ACTUALIZAR EL&amp;nbsp; EL CUF Y EL NUTRAN EN LA FACTURA GENERADA&lt;br&gt;tbl_facturasSFEl" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="667" y="6530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uShTrCzDafFroepxo1LG-0" value="PREPARAR DOCUMENTOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+          <mxGeometry x="530" y="6770" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
