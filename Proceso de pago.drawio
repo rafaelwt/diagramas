@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T19:06:48.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ExfjBgTk-210_sYxzUUw" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-17T19:09:55.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ACO1wGt94xbXgeF2teBM" version="20.7.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -421,11 +421,6 @@
         <mxCell id="oFvX4DduprYVjNPFV2Yf-17" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Recorrer Detalle Pago  detallePagos  &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:23},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:23},{&amp;quot;s&amp;quot;:23,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#ce9178ff&amp;quot;,&amp;quot;e&amp;quot;:36},{&amp;quot;s&amp;quot;:23,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:18.666666666666668,&amp;quot;e&amp;quot;:36},{&amp;quot;s&amp;quot;:36,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:37},{&amp;quot;s&amp;quot;:36,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:37}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Recorrer Detalle Pago &lt;/span&gt;&lt;span style=&quot;color:#ce9178;font-size:14px;&quot;&gt;detallePagos&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
           <mxGeometry x="145" y="610" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oFvX4DduprYVjNPFV2Yf-18" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="oFvX4DduprYVjNPFV2Yf-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oFvX4DduprYVjNPFV2Yf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="oFvX4DduprYVjNPFV2Yf-21" target="oFvX4DduprYVjNPFV2Yf-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="1620" as="targetPoint" />
@@ -440,14 +435,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFvX4DduprYVjNPFV2Yf-21" value="Se Factura el Servicio&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="330" y="710" width="100" height="100" as="geometry" />
+        <mxCell id="INcLnHJ0msS-N71J_naL-0" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="oFvX4DduprYVjNPFV2Yf-21" target="oFvX4DduprYVjNPFV2Yf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oFvX4DduprYVjNPFV2Yf-21" value="Se Factura el Servicio &lt;span style=&quot;color: rgb(206, 145, 120); font-size: 14px;&quot;&gt;sAutorizacionServicio_num &amp;gt; 0&lt;/span&gt;&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
+          <mxGeometry x="257.5" y="710" width="245" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oFvX4DduprYVjNPFV2Yf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="oFvX4DduprYVjNPFV2Yf-23" target="oFvX4DduprYVjNPFV2Yf-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oFvX4DduprYVjNPFV2Yf-23" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Genear Factura Inconclusa&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:25},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:25}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Genear Factura Inconclusa&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="oFvX4DduprYVjNPFV2Yf-1">
-          <mxGeometry x="250" y="850" width="260" height="70" as="geometry" />
+          <mxGeometry x="248.75" y="880" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oFvX4DduprYVjNPFV2Yf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oFvX4DduprYVjNPFV2Yf-1" source="oFvX4DduprYVjNPFV2Yf-25" target="oFvX4DduprYVjNPFV2Yf-27">
           <mxGeometry relative="1" as="geometry" />
