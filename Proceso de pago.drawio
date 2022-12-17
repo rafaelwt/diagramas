@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T18:59:00.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ngID1XmGDUNNHETDybx-" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T18:59:39.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VScRTTgzOo_U16kM0P3W" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="pago-actual">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         <mxCell id="MG3YhlP0bR8ULW_-c63s-53" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MG3YhlP0bR8ULW_-c63s-47" target="MG3YhlP0bR8ULW_-c63s-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MG3YhlP0bR8ULW_-c63s-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MG3YhlP0bR8ULW_-c63s-47" target="MG3YhlP0bR8ULW_-c63s-54">
+        <mxCell id="MG3YhlP0bR8ULW_-c63s-56" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MG3YhlP0bR8ULW_-c63s-47" target="MG3YhlP0bR8ULW_-c63s-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MG3YhlP0bR8ULW_-c63s-47" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Validar si hay pago completados en el servicio&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:46},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:46}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Validar si hay pago completados en el servicio&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
